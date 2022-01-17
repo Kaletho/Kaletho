@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kaletho
-- 👀 I’m interested in learning about machine learning! (the redundancy!)
-- 🌱 I’m currently learning about machine learning
-- 💞️ I’m looking to collaborate on non-traditional machine learning applications (yes, you can classify images, now show me something interesting)
+- 👀 Interested in learning about machine learning! (the redundancy!)
+- 🌱 Currently learning about machine learning
+- 💞️ Looking to collaborate on non-traditional machine learning applications 
 
 <!---
 Kaletho/Kaletho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
