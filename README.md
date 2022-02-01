@@ -1,6 +1,4 @@
-- 👀 Interested in learning about machine learning! (the redundancy!)
-- 🌱 Currently learning about machine learning
-- 💞️ Looking to collaborate on non-traditional machine learning applications 
+Let me look at it... maybe I can solve it...
 
 <!---
 Kaletho/Kaletho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
